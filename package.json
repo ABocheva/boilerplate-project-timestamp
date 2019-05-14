@@ -1,8 +1,8 @@
 {
-	"name": "fcc-api-projects-boilerplate",
+	"name": "api-project-timestamp-microservice",
   "author": "Antoniya Bocheva",
 	"version": "0.0.1",
-	"description": "An FCC Backend Challenge",
+	"description": "A freeCodeCamp Backend Challenge",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -10,7 +10,8 @@
 	"dependencies": {
 		"express": "^4.12.4",
 		"cors": "^2.8.0",
-    	"moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "body-parser":"^1.19.0" 
 	},
 	"engines": {
 		"node": "4.4.5"
