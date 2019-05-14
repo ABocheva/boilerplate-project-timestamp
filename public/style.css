@@ -10,8 +10,9 @@ body {
 }
 
 .container {
-	padding: 0;
 	margin-top: 40px;
+  padding: 20px;
+  background-color: rgb(46,139,87);
 }
 
 h3 {
@@ -19,7 +20,7 @@ h3 {
 }
 
 .footer {
-	margin-top: 40px;
+	margin: 40px;
 }
 
 .user-stories {
